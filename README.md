@@ -2,7 +2,7 @@
 📚 Junior high school student in Indonesia<br>
 ⚙️ Self-taught artist & web dev<br>
 🧊 Currently learning PHP & HaxeFlixel<br>
-🔥 Looking forward to go to SegaLand ^_^
+🔥 Looking forward to go to SegaWorld in Japan ^_^
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/a12313](https://discordapp.com/users/969551798220251139)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rich.kurniawan) 
