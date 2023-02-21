@@ -1,8 +1,8 @@
 # 💫 About Me:
-📚 Junior high school student in Indonesia<br>
+🏫 Junior high school student in Jakarta, Indonesia<br>
 ⚙️ Self-taught artist & web dev<br>
 👨‍💻 Coding since 2019 - present!<br>
-🧊 Currently learning responsive web design, PHP, & HaxeFlixel<br>
+📚 Currently learning responsive web design, PHP, & HaxeFlixel<br>
 🔥 Looking forward to go to SegaWorld in Japan ^_^
 
 ## 🌐 Socials:
