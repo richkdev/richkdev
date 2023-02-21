@@ -3,6 +3,7 @@
 ⚙️ Self-taught artist & web dev<br>
 👨‍💻 Coding since 2019 - present!<br>
 📚 Currently learning responsive web design, PHP, & HaxeFlixel<br>
+🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io/)
 🔥 Looking forward to go to SegaWorld in Japan ^_^
 
 ## 🌐 Socials:
@@ -17,9 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richkdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=richkdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=richkdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Visits](https://visitcount.itsvg.in/api?id=richkdev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=richkdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/richmondkleinson) 
