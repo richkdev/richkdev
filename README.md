@@ -3,7 +3,7 @@
 ⚙️ Self-taught artist & web dev<br>
 👨‍💻 Coding since 2019 - present!<br>
 📚 Currently learning responsive web design, PHP, & HaxeFlixel<br>
-🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io)<br>
+🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io) (W.I.P.)<br>
 🔥 Looking forward to go to SegaWorld in Japan ^_^
 
 ## 🌐 Socials:
