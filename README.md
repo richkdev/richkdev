@@ -4,7 +4,6 @@
 👨‍💻 Coding since 2019 - present!<br>
 📚 Currently learning game & back-end development<br>
 🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io) (W.I.P.)<br>
-🔥 Looking forward to go to SegaWorld in Japan ^_^
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/969551798220251139) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rich.kurniawan) 
