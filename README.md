@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🏫 Junior high school student in Jakarta, Indonesia<br>
-⚙️ Self-taught photographer, front-end, & game dev<br>
+⚙️ Self-taught hobbyist programmer/artist/musician<br>
 👨‍💻 Coding since 2019 - present!<br>
 📚 Currently learning game & back-end development<br>
 🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io) (W.I.P.)
