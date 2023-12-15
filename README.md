@@ -1,14 +1,14 @@
 # 💫 About Me:
 
 🏫 Junior high school student in Jakarta, Indonesia<br>
-⚙️ Self-taught hobbyist programmer/artist/musician<br>
+⚙️ Self-taught hobbyist programmer/artist<br>
 👨‍💻 Coding since 2019 - present!<br>
 📚 Currently learning game & back-end development<br>
 🌐 Complete portfolio at: [richkdev.github.io](https://richkdev.github.io) (W.I.P.)
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/969551798220251139) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rich.kurniawan) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/969551798220251139) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rich.kurniawan) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-nathaniel-effendy-kurniawan-204612297/) 
 
 # 💻 Tech Stack:
 
